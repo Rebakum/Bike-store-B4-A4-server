@@ -14,7 +14,10 @@ app.use(express.json());
 // cors origin permission
 app.use(
   cors({
-    origin: ["http://localhost:5173"],
+    origin: [
+      "http://localhost:5173",
+      "https://bike-store-b4-a4-client.vercel.app",
+    ],
     credentials: true,
   })
 );
