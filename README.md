@@ -5,9 +5,8 @@ A backend bike shop e-commerce web application with user registration, secure au
 ---
 
 ## 🔥 Live Demo
-
-https://bike-store-b4-a4.vercel.app/
-https://bike-store-b4-a4-frontend.vercel.app
+Server: https://bike-store-b4-a4-server.vercel.app/
+client: https://bike-store-b4-a4-client.vercel.app/
 
 ---
 
@@ -101,8 +100,9 @@ The collection is organized into several folders for easier navigation:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Rebakum/Bike-store-B4-A4.git
-   cd Bike-store-B4-A4
+   git clone https://github.com/Rebakum/Bike-store-B4-A4-server
+   git   cd Bike-store-B4-A4
+   npm install
    ```
 
 2. Open **Postman**.
